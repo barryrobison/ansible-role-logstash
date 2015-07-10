@@ -1,7 +1,4 @@
 ---
-dependencies:
-  - { role: geerlingguy.elasticsearch }
-
 galaxy_info:
   author: geerlingguy
   description: Logstash for Linux.
